@@ -55,8 +55,6 @@ VK-LSVD состоит из более 40 миллиардов взаимоде�
 
 - [FlashAttention-2](https://arxiv.org/abs/2307.08691) (оригинальный OneTrans)
 - Cross Request KV Cache (оригинальный OneTrans)
-- [Speculative Decoding](https://arxiv.org/abs/2211.17192)
-- [Hierarchical User Memory](https://arxiv.org/abs/2404.07143)
 - [Candidate-wise Early Exit](https://arxiv.org/abs/2404.16710)
 - [Adaptive Token Pruning](https://arxiv.org/abs/2106.02034)
 
